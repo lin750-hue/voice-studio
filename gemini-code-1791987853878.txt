@@ -1,0 +1,2 @@
+streamlit
+edge-tts
